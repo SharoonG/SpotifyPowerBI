@@ -5,6 +5,8 @@ This repository contains a Power BI analysis of Spotify data, highlighting popul
 ## Project Overview
 The goal of this project is to create interactive visualizations that explore Spotify's top-streamed tracks, track release patterns, and other musical features to understand what makes certain tracks popular.
 
+![SpotifyAnalysis](/images/spotify-1.png)
+
 ## Dataset Information 
 The [dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023) used for this analysis includes key attributes such as:
 - **Track Name**: Song title.
